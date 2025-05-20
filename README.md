@@ -1,6 +1,6 @@
 # Gas Station Sales Analysis
 
-This is a mock data project analyzing sales from a fictional gas station using Google Sheets.
+This is a simulated data project analyzing sales from a fictional gas station using Google Sheets.
 
 ## Objective
 
