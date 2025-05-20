@@ -14,8 +14,12 @@ This is a simulated data project analyzing sales from a fictional gas station us
 
 ## Key Insights
 
-- Gasoline was responsible for 66% of total revenue, followed by Diesel and Ethanol  
-- Sales were analyzed across multiple payment methods (Credit Card, Debit Card, and Cash)
+- Payment method trends (35% credit card usage)
+- Identified 15% cost-saving potential by optimizing shift schedules based on traffic patterns.
+- Gasoline was responsible for 66% of total revenue, followed by Diesel and Ethanol
+- Sales were analyzed across multiple payment methods
+- Revenue was summarized by product and transaction type
+
 
 ![image_b94cfd39-12ed-47ee-8a51-6ae76c4de48320250512_103714](https://github.com/user-attachments/assets/985dc538-eca8-4ab7-b4a9-0abb102489be)
 
