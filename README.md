@@ -1,6 +1,6 @@
 # Gas Station Sales Analysis
 
-This is a simulated data project analyzing sales from a fictional gas station using Google Sheets.
+This is a simulated data project analyzing sales from a gas station using Google Sheets.
 
 ## Objective
 
@@ -21,7 +21,8 @@ This is a simulated data project analyzing sales from a fictional gas station us
 - Revenue was summarized by product and transaction type
 
 
-![image_b94cfd39-12ed-47ee-8a51-6ae76c4de48320250512_103714](https://github.com/user-attachments/assets/985dc538-eca8-4ab7-b4a9-0abb102489be)
+![Screenshot_20250521_153506_Sheets](https://github.com/user-attachments/assets/0ea13d14-2c1e-442e-99d3-0a6df81f44a3)
+
 
 
 ## Files
