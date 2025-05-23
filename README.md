@@ -11,7 +11,8 @@ This is a simulated data project analyzing sales from a gas station using Google
 ## Tools Used
 
 - Google Sheets (for calculations, filtering, pivot tables and charts)
-
+- Power BI/Power Query for further exploration
+  
 ## Key Insights
 
 - Payment method trends (35% credit card usage)
